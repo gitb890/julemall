@@ -19,6 +19,7 @@
 		<module>jule-order</module>
 		<module>jule-project</module>
 		<module>jule-ware</module>
+		<module>renren-fast</module>
 	</modules>
 
 </project>
