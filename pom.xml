@@ -20,6 +20,8 @@
 		<module>jule-project</module>
 		<module>jule-ware</module>
 		<module>renren-fast</module>
-	</modules>
+		<module>renren-generator</module>
+        <module>jule-common</module>
+    </modules>
 
 </project>
