@@ -8,7 +8,8 @@
 
 package com.junjie.common.xss;
 
-import io.renren.common.exception.RRException;
+
+import com.junjie.common.utils.RRException;
 import org.apache.commons.lang.StringUtils;
 
 /**

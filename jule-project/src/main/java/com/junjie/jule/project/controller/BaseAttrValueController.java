@@ -45,7 +45,6 @@ public class BaseAttrValueController {
      * 信息
      */
     @RequestMapping("/info/{id}")
-    @RequiresPermissions("project:baseattrvalue:info")
     public R info(@PathVariable("id") Long id){
 		BaseAttrValueEntity baseAttrValue = baseAttrValueService.getById(id);
 
